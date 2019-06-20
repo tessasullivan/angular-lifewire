@@ -41,7 +41,7 @@ This application is a reproduction of the Lifewire web site.  I chose to reprodu
 You must have Node.js installed.  Go to [Node.js](https://nodejs.org/en/download/current/) and download and install the appropriate version for your OS.
 
 1. Clone this repository.
-2. ```cd angular-lifewire```
+2. ```cd lifewire-angular-v1```
 3. Run ```npm install```.
 4. Run ```ng serve -o``` This will load the application in your browser at ```http://localhost:4200```.
 
