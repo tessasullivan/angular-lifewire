@@ -46,7 +46,8 @@ You must have Node.js installed.  Go to [Node.js](https://nodejs.org/en/download
 4. Run ```ng serve -o``` This will load the application in your browser at ```http://localhost:4200```.
 
 ## Known Issues
-* Currently, only 3/4 of the front end has been reproduced, none of the website functionality has been added yet.
+* Currently, only the front end has been reproduced, none of the website functionality has been added.
+* The Table of Contents has not been implemented.
 
 ## Technologies Used
 
@@ -60,8 +61,6 @@ _Contact Tessa Sullivan @ tessa.sullivan@gmail.com_
 
 ### License
 All icons on news section are property of Lifewire.
-The envelope icon comes from Icon Finder (http://www.iconfinder.com).
-The speech bubble icon comes from Get Drawings (http://getdrawings.com/speech-bubble-icon).
 
 
 Photos - all come from unsplash which publish photos free for use.
